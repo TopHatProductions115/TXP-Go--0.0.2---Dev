@@ -1,0 +1,14 @@
+var $query = get...
+var $urls = array(url1, url2, url3, ect.);
+
+foreach ($urls as $option)
+{
+
+search ($urls: $option.)
+{
+
+var $dir_name =
+
+}
+
+}
